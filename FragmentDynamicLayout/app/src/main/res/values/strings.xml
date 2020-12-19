@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentDynamicLayout</string>
+    <string-array name="attraction_titles">
+        <item>The Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Museum of Science and Industry</item>
+        <item>Art institute of Chicago</item>
+        <item>Shedd Aquarium</item>
+        <item>the TILT!</item>
+        <item>Field Museum of Natural History</item>
+        <item>Michigan Avenue and the Magnificent Mile</item>
+        <item>Wrigley Field</item>
+    </string-array>
+    <string-array name="attraction_websites">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.artic.edu/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://360chicago.com/tilt/</item>
+        <item>https://www.fieldmuseum.org/</item>
+        <item>https://www.themagnificentmile.com/</item>
+        <item>https://www.mlb.com/cubs/ballpark</item>
+    </string-array>
+    <string-array name="restaurant_titles">
+        <item>Maries Pizza</item>
+        <item>Potbelly</item>
+        <item>Gene and Judes</item>
+        <item>Margies Candies</item>
+        <item>Twin Anchors</item>
+        <item>Green door</item>
+        <item>Walnut room</item>
+        <item>Giordanos</item>
+        <item>Portillos</item>
+        <item>PF Changs</item>
+        <item>Nandos Peri Peri</item>
+        <item>Subway</item>
+        <item>Kentucky Fried Chicken</item>
+    </string-array>
+    <string-array name="restaurant_websites">
+        <item>https://mariespizzachicago.com/Welcome.html</item>
+        <item>https://www.potbelly.com/</item>
+        <item>https://geneandjudes.com/</item>
+        <item>https://margiesfinecandies.com/</item>
+        <item>https://twinanchorsribs.com/</item>
+        <item>https://www.greendoorchicago.com/</item>
+        <item>https://macysrestaurants.com/walnut-room/</item>
+        <item>https://giordanos.com/</item>
+        <item>https://www.portillos.com/index.html</item>
+        <item>https://www.pfchangs.com/</item>
+        <item>https://www.nandosperiperi.com/</item>
+        <item>https://www.subway.com/en-US</item>
+        <item>https://www.kfc.com/menu/chicken</item>
+    </string-array>
+    <string name="restaurants">Restaurants Viewer</string>
+    <string name="attractions">Attractions Viewer</string>
+    <string name="permission">Responds to user selection</string>
+    <string name="description">respond to your selected points of interest</string>
+    <string name="welcome">Lets get started!</string>
+</resources>
+

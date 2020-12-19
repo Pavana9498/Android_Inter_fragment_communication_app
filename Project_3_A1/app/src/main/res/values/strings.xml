@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project_3_A1</string>
+    <string name="restaurants">RESTAURANTS button shows a list of popular restaurants in Chicago.
+        Select a restaurant of your choice to visit its website.</string>
+    <string name="attractions">ATTRACTIONS button shows a list of attractions in Chicago.
+        Select an attraction of your choice to visit its website.</string>
+    <string name="button1">RESTAURANTS</string>
+    <string name="button2">ATTRACTIONS</string>
+    <string name="permission">Respond to user selection</string>
+    <string name="description"> respond to user selected points of interest in Chicago</string>
+</resources>

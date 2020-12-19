@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/3c82d0e39c2a3575a1e6d7e3c4e0f1ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/703b45b262488e0a7d67c3829273feb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3494913028bb178d815cfd04ad4e64bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0ea1aa94e8fb74b4f380fc06f8d39f6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ec47ad7e8c57cf1710c233dd5c9f1602/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd9a897caaca638383984657828dc29d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee89e15d03399554c2f9884666c25507/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e394b425455b970375bf129a0329ec13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8776f40737a8b2af07eb08e4814a972b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9354ff27ec84128101f80ef43e9f5ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/40742bcce8acbc29f8732d531b1a86a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/099081a8fead0052c12f76b9ecc44485/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/829ff68c821202b52f1b1b4e23f49ddd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbb2cd70870b9058864c820f2f7d2879/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/76dcecec2a72050a48c6e1b72b465a38/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c8c62bc9c82c1de385bd47cc9b66796/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b19fa79ae3b228e4e15ece87fd1326c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6b5df4d73f043cb38f5606bfaec8f26f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44de81685233ee2ab7dbf5b7c62956b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b4a2c572aa1431a608271202d8033f41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/69369a30d7e246e0f1089cb8fc35439c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36cb0350d4bd98415403a0c70684affd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a39ae42b488f3d64d63f4640cabf7469/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/577f56c8dd8b855b2df205798318ea44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aea2c78103b4b6ce5c81a55461b61656/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbb2cd70870b9058864c820f2f7d2879/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbb2cd70870b9058864c820f2f7d2879/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/76dcecec2a72050a48c6e1b72b465a38/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/76dcecec2a72050a48c6e1b72b465a38/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbb2cd70870b9058864c820f2f7d2879/AndroidManifest.xml:22:18-91
+	android:icon
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:10:9-36
+activity#course.examples.Fragments.DynamicLayout.MainActivity
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:13:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:16:27-74
+activity#course.examples.Fragments.DynamicLayout.QuoteViewerActivity
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:19:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.VIEW
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:22:17-75
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:22:27-73
+activity#course.examples.Fragments.DynamicLayout.AttractionViewerActivity
+ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:25:9-30:20
+	android:name
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml:25:19-98
+uses-sdk
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/3c82d0e39c2a3575a1e6d7e3c4e0f1ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/3c82d0e39c2a3575a1e6d7e3c4e0f1ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/703b45b262488e0a7d67c3829273feb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/703b45b262488e0a7d67c3829273feb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3494913028bb178d815cfd04ad4e64bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/3494913028bb178d815cfd04ad4e64bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0ea1aa94e8fb74b4f380fc06f8d39f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0ea1aa94e8fb74b4f380fc06f8d39f6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ec47ad7e8c57cf1710c233dd5c9f1602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ec47ad7e8c57cf1710c233dd5c9f1602/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd9a897caaca638383984657828dc29d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/fd9a897caaca638383984657828dc29d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee89e15d03399554c2f9884666c25507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ee89e15d03399554c2f9884666c25507/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e394b425455b970375bf129a0329ec13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/e394b425455b970375bf129a0329ec13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8776f40737a8b2af07eb08e4814a972b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8776f40737a8b2af07eb08e4814a972b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9354ff27ec84128101f80ef43e9f5ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9354ff27ec84128101f80ef43e9f5ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/40742bcce8acbc29f8732d531b1a86a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/40742bcce8acbc29f8732d531b1a86a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/099081a8fead0052c12f76b9ecc44485/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/099081a8fead0052c12f76b9ecc44485/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/829ff68c821202b52f1b1b4e23f49ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/829ff68c821202b52f1b1b4e23f49ddd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbb2cd70870b9058864c820f2f7d2879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/dbb2cd70870b9058864c820f2f7d2879/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/76dcecec2a72050a48c6e1b72b465a38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/76dcecec2a72050a48c6e1b72b465a38/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c8c62bc9c82c1de385bd47cc9b66796/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1c8c62bc9c82c1de385bd47cc9b66796/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b19fa79ae3b228e4e15ece87fd1326c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b19fa79ae3b228e4e15ece87fd1326c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6b5df4d73f043cb38f5606bfaec8f26f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/6b5df4d73f043cb38f5606bfaec8f26f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44de81685233ee2ab7dbf5b7c62956b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/44de81685233ee2ab7dbf5b7c62956b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b4a2c572aa1431a608271202d8033f41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b4a2c572aa1431a608271202d8033f41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/69369a30d7e246e0f1089cb8fc35439c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/69369a30d7e246e0f1089cb8fc35439c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36cb0350d4bd98415403a0c70684affd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/36cb0350d4bd98415403a0c70684affd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a39ae42b488f3d64d63f4640cabf7469/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a39ae42b488f3d64d63f4640cabf7469/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/577f56c8dd8b855b2df205798318ea44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/577f56c8dd8b855b2df205798318ea44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aea2c78103b4b6ce5c81a55461b61656/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/pavanadoddi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/aea2c78103b4b6ce5c81a55461b61656/AndroidManifest.xml:20:5-44
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pavanadoddi/Desktop/SPRING2020/SDMP/Project_3/FragmentDynamicLayout/app/src/main/AndroidManifest.xml
